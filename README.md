@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aabdelaal-dev
-- 👀 I’m interested in Software programming 
+- 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning full stack desktop Developer with C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: aabdelaal.dev@gmail.com
